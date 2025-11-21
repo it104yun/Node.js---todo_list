@@ -326,7 +326,9 @@ npm install -g http-server
 
 <br>
 <br>
-<br>
+<hr>
 
-# <center><font color="red">前端-超作畫面</font></center>
+# <center><font color="red">前端.操作畫面</font></center>
 ![alt text](image.png)
+
+<hr>
